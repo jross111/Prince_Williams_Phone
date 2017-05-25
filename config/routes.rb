@@ -5,7 +5,7 @@ Rails.application.routes.draw do
       resources :contacts
     end
   end
-
+# config.middleware.insert
   # module Api
   #   module v1
   #     class ContactsController

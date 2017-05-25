@@ -5,7 +5,7 @@ contacts = Contact.create([{
   phone: '447528111936',
   royal: true,
   alive: true,
-  single: false,
+  single: false
 },
 {
   name: 'Prince Phillip',
@@ -14,6 +14,33 @@ contacts = Contact.create([{
   phone: '44752614197',
   royal: true,
   alive: true,
-  single: false,
+  single: false
+},
+{
+  name: 'Princess Diana',
+  nickname: 'Mum',
+  email: 'PrincessDianaQT@yahoo.com',
+  phone: '44432614197',
+  royal: true,
+  alive: false,
+  single: true
+},
+{
+  name: 'Kate Middleton',
+  nickname: 'KT',
+  email: 'ImAPrincess@yahoo.com',
+  phone: '44754314197',
+  royal: true,
+  alive: true,
+  single: false
+},
+{
+  name: 'Megan Markle',
+  nickname: 'Babe',
+  email: 'SuitsStar@yahoo.com',
+  phone: '4475243297',
+  royal: false,
+  alive: true,
+  single: false
 }
 ])
