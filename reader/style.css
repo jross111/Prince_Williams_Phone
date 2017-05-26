@@ -1,0 +1,17 @@
+#over {
+    background-image: url("https://preview.ibb.co/fbaDDF/phone.png");
+    background-repeat: no-repeat;
+    height: 380px;
+    width: 750px;
+    margin: 30 auto 30px;
+    position: relative;
+
+}
+
+iframe {
+    height: 621px;
+    width: 583px;
+    margin: 30 0 0 0;
+    position: relative;
+
+}
